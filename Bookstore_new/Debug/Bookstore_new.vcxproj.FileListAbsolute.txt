@@ -1,0 +1,2 @@
+D:\Personal\Courses\Object-oriented programming\Visual Studio sln\Bookstore_new\Debug\Bookstore_new.exe
+D:\Personal\Courses\Object-oriented programming\Visual Studio sln\Bookstore_new\Debug\Bookstore_new.pdb

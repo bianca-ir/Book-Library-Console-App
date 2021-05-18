@@ -1,0 +1,3 @@
+﻿  Repository.cpp
+D:\Personal\Courses\Object-oriented programming\Visual Studio sln\Bookstore_new\Repository.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+  Bookstore_new.vcxproj -> D:\Personal\Courses\Object-oriented programming\Visual Studio sln\Bookstore_new\Debug\Bookstore_new.exe
